@@ -2838,8 +2838,8 @@ footer.short-2 .contact-action:hover {
     bottom: 0px;
   }
   .top-bar .logo.logo-wide {
-    bottom: 3px;
-    margin-bottom: 22px;
+    bottom: 18px;
+    margin-left: -8px;
   }
   .mobile-toggle {
     font-size: 32px;
