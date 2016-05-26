@@ -2840,16 +2840,9 @@ footer.short-2 .contact-action:hover {
   .top-bar .logo.logo-wide {
     bottom: 18px;
     margin-left: -8px;
+    max-width: 160px;
   }
-  .mobile-toggle {
-    font-size: 32px;
-    display: block;
-    position: absolute;
-    top: 24px;
-    right: 16px;
-    cursor: pointer;
-    color: #333333;
-  }
+
   .overlay-bar {
     background: rgba(255, 255, 255, 0.9);
   }
