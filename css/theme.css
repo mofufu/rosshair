@@ -429,13 +429,13 @@ nav hr {
   top: 0;
 }
 .top-bar .logo {
-  max-width: 60px;
+  max-width: 80px;
   position: relative;
   bottom: 7px;
 }
 .logo.logo-wide {
-  max-width: 260px;
-  bottom: 20px;
+  max-width: 140px;
+  bottom: 12px;
   margin-bottom: -6px;
 }
 .logo.logo-square {
@@ -2838,11 +2838,18 @@ footer.short-2 .contact-action:hover {
     bottom: 0px;
   }
   .top-bar .logo.logo-wide {
-    bottom: 18px;
-    margin-bottom: 8px;
-    
+    bottom: 3px;
+    margin-bottom: 22px;
   }
-
+  .mobile-toggle {
+    font-size: 32px;
+    display: block;
+    position: absolute;
+    top: 24px;
+    right: 16px;
+    cursor: pointer;
+    color: #333333;
+  }
   .overlay-bar {
     background: rgba(255, 255, 255, 0.9);
   }
