@@ -434,7 +434,7 @@ nav hr {
   bottom: 7px;
 }
 .logo.logo-wide {
-  max-width: 300px;
+  max-width: 260px;
   bottom: 20px;
   margin-bottom: -6px;
 }
@@ -2840,7 +2840,7 @@ footer.short-2 .contact-action:hover {
   .top-bar .logo.logo-wide {
     bottom: 18px;
     margin-left: -8px;
-    max-width: 260px;
+    
   }
 
   .overlay-bar {
