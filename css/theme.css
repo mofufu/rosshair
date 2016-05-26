@@ -429,13 +429,13 @@ nav hr {
   top: 0;
 }
 .top-bar .logo {
-  max-width: 200px;
+  max-width: 80px;
   position: relative;
   bottom: 7px;
 }
 .logo.logo-wide {
-  max-width: 200px;
-  bottom: 12px;
+  max-width: 300px;
+  bottom: 20px;
   margin-bottom: -6px;
 }
 .logo.logo-square {
